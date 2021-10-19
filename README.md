@@ -1,1 +1,2 @@
-# 20211019_PythonDS
+Python Data Structures and Algorithms Exercises and Notes
+
